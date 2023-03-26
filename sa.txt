@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 hi sundar hiii
 
+=======
+hi sundar
+suthu
+>>>>>>> b
